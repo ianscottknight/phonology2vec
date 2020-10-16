@@ -44,6 +44,19 @@ Tools for analyzing and visualizing the phonologies of different languages using
      
 
 
+## Instructions
+
+1. Download the dataset from here: https://www.kaggle.com/mrinalmanu/bible-verses-30-languages-ipa-annotated/
+
+2. Place the following files in the data directory:
+
+```
+phonology2vec/data/raw/annotated_feature_DF.csv
+phonology2vec/data/raw/IPA_DF.pkl
+```
+
+3. Run jupyter notebook(s)
+
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
