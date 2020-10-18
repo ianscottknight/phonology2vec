@@ -20,7 +20,7 @@ Tools for analyzing and visualizing the phonologies of different languages using
     │   └── figures         <- Generated graphics and figures to be used in reporting
     └── phonology2vec
         ├── util.py         <- Shared functions and helpful file paths
-        ├── make_dataset.py <- Scripts to download or generate data
+        ├── make_dataset.py <- Dataset download and generation
         ├── pipeline.py     <- Data processing pipeline to be used in train.py and predict.py
         ├── train.py        <- Train model
         ├── predict.py      <- Make predictions using a trained model
