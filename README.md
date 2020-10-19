@@ -39,5 +39,3 @@ phonology2vec/data/raw/IPA_DF.pkl
 ```
 
 3. Run jupyter notebook(s)
-
---------
